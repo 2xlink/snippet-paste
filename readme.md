@@ -15,7 +15,7 @@ Never gonna tell a lie and hurt you
 
 ```
 
-https://github.com/2xlink/snippet-paste/assets/8763936/3ff33213-13a9-49cf-add8-68cadb752351
+https://github.com/2xlink/snippet-paste/assets/8763936/55e95c53-f8a8-4ce8-8d42-3d0ac49134c6
 
 ## Requirements
 
